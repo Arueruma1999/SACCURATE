@@ -15,6 +15,7 @@ SACCURATE has been developed in  [Shadmehr Lab](http://www.shadmehrlab.org), [De
 - [Trajectory Module](#trajectory-module)
 - [Prerequisite Environment](#prerequisite-environment)
 - [Data Structure](#data-structure)
+- [Installation](#installation)
 
 ## <a name="introduction">Introduction</a> 
 
@@ -156,7 +157,7 @@ The trajectory module is located on the lower right of the main window. It provi
 
  - Visual Target Layout: Optionally, the overall visual target layout is depicted. The fixation center and primary targets are displayed in purple, while secondary targets are shown in pink.
  
-Please note that the module currently assumes a [8-direction primary and secondary target layout](#https://www.nature.com/articles/nature15693) for visual target and visual target layout representation.
+Please note that the module currently assumes a [8-direction primary and secondary target layout](https://www.nature.com/articles/nature15693) for visual target and visual target layout representation.
 
 For instruction on how to zoom in or zoom put, please see [Instruction Table](#instruction-table) for details.
 
@@ -205,6 +206,20 @@ Data input should be a .mat file. The file can be named whatever you prefer, but
 
 You can also play with our [demo dataset](https://github.com/Arueruma1999/SACCURATE/blob/main/demo%20dataset/demo_data_59d_2019-11-08_11-45-24.mat) to explore more details. To Use the GUI, simply run [SACCURATE.mlapp](https://github.com/Arueruma1999/SACCURATE/tree/main/GUI) in the GUI folder
 
+[back to start](#content)
+
+## <a name="installation">Installation</a> 
+
+1. Install Matlab with [toolbox required](#prerequisite-environment).
+
+2. Download or clone the Github repository into local directory
+	git clone https://github.com/Arueruma1999/SACCURATE
+
+3. Go to GUI subfolder and open SACCURATE using Matlab
+	SACCURATE()
+
+4. open [demo dataset demo_data_59d_2019-11-08_11-45-24.mat](https://github.com/Arueruma1999/SACCURATE/blob/main/demo%20dataset/demo_data_59d_2019-11-08_11-45-24.mat) in demo dataset subfolder in SACCURATE and play with it!
+	
 [back to start](#content)
 
 
