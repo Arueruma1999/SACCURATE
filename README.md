@@ -213,13 +213,13 @@ You can also play with our [demo dataset](https://github.com/Arueruma1999/SACCUR
 1. Install Matlab with [toolbox required](#prerequisite-environment).
 
 2. Download or clone the Github repository into local directory
-'''python
+```python
 git clone https://github.com/Arueruma1999/SACCURATE
-'''
+```
 3. Go to GUI subfolder and open SACCURATE using Matlab
-'''matlab
+```matlab
 SACCURATE()
-'''
+```
 4. open [demo dataset demo_data_59d_2019-11-08_11-45-24.mat](https://github.com/Arueruma1999/SACCURATE/blob/main/demo%20dataset/demo_data_59d_2019-11-08_11-45-24.mat) in demo dataset subfolder in SACCURATE and play with it!
 	
 [back to start](#content)
