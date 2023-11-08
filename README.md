@@ -2,7 +2,7 @@
 
 SACCURATE has been developed in  [Shadmehr Lab](http://www.shadmehrlab.org), [Department of Biomedical Engineering](https://www.bme.jhu.edu), [Johns Hopkins University](https://www.jhu.edu)
 
-![Theme Figure](https://github.com/ShadmehrLCMC/SACCURATE/blob/main/illustrations/theme_figure.png)
+![Theme Figure](https://github.com/ShadmehrLCMC/SACCURATE/blob/main/illustrations/theme_figure.jpg)
 ![Overview Figure](https://github.com/ShadmehrLCMC/SACCURATE/blob/main/illustrations/overview_figure.svg)
 ------------------
 
